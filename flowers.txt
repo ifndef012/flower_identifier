@@ -1,0 +1,100 @@
+alstroemeria
+amaryllis
+anemone
+aster
+azalea
+baptisia
+begonia
+bird of paradise
+black-eyed susan
+bleeding heart
+bluebell
+bougainvillea
+buttercup
+calendula
+camellia
+canterbury bells
+carnation
+celosia
+chinese lantern
+chocolate cosmos
+christmas cactus
+chrysanthemum
+coreopsis
+cosmos
+crocosmia
+crocus
+cuphea
+cyclamen
+daffodil
+dahlia
+daisy
+delphinium
+dianthus
+echinacea
+euonymus
+forget-me-not
+foxglove
+freesia
+fuchsia
+gaillardia
+gazania
+gladiolus
+globe amaranth
+gloriosa lily
+heliotrope
+hellebore
+hibiscus
+hollyhock
+honeysuckle
+hortensis
+hosta
+hoya
+hyacinth
+hydrangea
+iceland poppy
+impatiens
+iris
+japanese cherry blossom
+jasmine
+lantana
+lavender
+lily
+lisianthus
+lobelia
+lupine
+marigold
+monarda
+morning glory
+narcissus
+nasturtium
+nerine
+ninebark
+orchid
+osteospermum
+oxalis
+passionflower
+penstemon
+peony
+peruvian lily
+petunia
+poinsettia
+portulaca
+ranunculus
+rose
+rudbeckia
+safflower
+salvia
+scabiosa
+sedum
+snapdragon
+snowdrop
+snowflake
+statice
+sunflower
+thistle
+tithonia
+trillium
+tulip
+vinca
+violet
